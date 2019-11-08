@@ -1,7 +1,7 @@
 {
-  "name": "digibyte-message",
+  "name": "auroracoin-message",
   "version": "1.0.3",
-  "description": "Digibyte Messages for DigiByte.js",
+  "description": "Auroracoin Messages for Auroracoin.js",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/digibyte/digibyte-message.git"
+    "url": "https://github.com/LTEX-DEV/bitcore-message-2019.git"
   },
   "dependencies": {
-    "digibyte": "^0.15.6"
+    "auroracoin": "git://github.com/LTEX-DEV/bitcore-lib-2019.git"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
